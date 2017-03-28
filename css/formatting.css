@@ -1,0 +1,75 @@
+/*
+ * =========================
+ * SECTION FORMATTING
+ * =========================
+ */
+
+#intro {
+  background: #31b69f;
+  color: #fff;
+}
+
+#peer-support {
+  background: #3F6FBC;
+  color: #fff;
+}
+
+#reminders {
+  background: #FFCE83;
+  color: #fff;
+}
+
+#signup {
+  background: #31b69f;
+  color: #fff;
+}
+
+/*
+ * =========================
+ * HELPER CLASSES
+ * =========================
+ */
+
+.text-light {
+  font-weight: 300;
+}
+
+.spacer {
+  margin-bottom: 50px;
+}
+
+.logo {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+img.inline {
+  padding-bottom: 0px;
+}
+
+.btn-one {
+  color: #fff;
+  background-color: #3F6FBC;
+  border-color: #6499be;
+}
+
+.btn-one:hover {
+  color: #eee;
+}
+
+
+/*
+ * =========================
+ * CLASSES FOR CUSTOM NAVBAR
+ * =========================
+ */
+
+.navbar-custom {
+  background-color: #C6CFD9;
+  border-color: #e7e7e7;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-default .navbar-nav>li>a {
+  color: #333;
+}
